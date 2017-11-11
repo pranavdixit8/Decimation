@@ -1,0 +1,10 @@
+1) I have included some .smf files: cube.smf(the default), wheel.smf. Please type in the name of the files as: cube, wheel to upload the file. "cube" is the defualt value in the open file Edit Text.
+
+2) Use a name for the save file, to save the model. The saved model goes in the same folder. "test" is the default value for the save file Edit Text.
+
+3) Please zoom and drag to make sure the mesh is visible, I could have fixed the axes to the center of the mesh. It might be a good idea for future projects.
+
+4) Please click the decimate button to decimate, change the values and try.
+
+Thanks
+
